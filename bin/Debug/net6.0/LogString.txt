@@ -1,0 +1,21 @@
+[Info]: [String] : Животный мир
+[Warning]: [String] : Предупреждение
+[Error] : [String] : Oшибка. Value cannot be null.
+[Info]: [String] : Животный мир
+[Warning]: [String] : Предупреждение
+[Error] : [String] : Oшибка. Value cannot be null.
+[Info]: [String] : Животный мир
+[Warning]: [String] : Предупреждение
+[Error] : [String] : Oшибка. Value cannot be null.
+[Info]: [String] : Животный мир
+[Warning]: [String] : Предупреждение
+[Error] : [String] : Oшибка. Value cannot be null.
+[Info]: [String] : Животный мир
+[Warning]: [String] : Предупреждение
+[Error] : [String] : Oшибка. Value cannot be null.
+[Info]: [String] : Животный мир
+[Warning]: [String] : Предупреждение
+[Error] : [String] : Oшибка. Value cannot be null.
+[Info]: [String] : Животный мир
+[Warning]: [String] : Предупреждение
+[Error] : [String] : Oшибка. Value cannot be null.

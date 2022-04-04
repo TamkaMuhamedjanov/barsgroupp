@@ -1,0 +1,21 @@
+[Info]: [Animal] : Животный мир
+[Warning]: [Animal] : Предупреждение
+[Error] : [Animal] : Oшибка. Object reference not set to an instance of an object.
+[Info]: [Animal] : Животный мир
+[Warning]: [Animal] : Предупреждение
+[Error] : [Animal] : Oшибка. Object reference not set to an instance of an object.
+[Info]: [Animal] : Животный мир
+[Warning]: [Animal] : Предупреждение
+[Error] : [Animal] : Oшибка. Object reference not set to an instance of an object.
+[Info]: [Animal] : Животный мир
+[Warning]: [Animal] : Предупреждение
+[Error] : [Animal] : Oшибка. Object reference not set to an instance of an object.
+[Info]: [Animal] : Животный мир
+[Warning]: [Animal] : Предупреждение
+[Error] : [Animal] : Oшибка. Object reference not set to an instance of an object.
+[Info]: [Animal] : Животный мир
+[Warning]: [Animal] : Предупреждение
+[Error] : [Animal] : Oшибка. Object reference not set to an instance of an object.
+[Info]: [Animal] : Животный мир
+[Warning]: [Animal] : Предупреждение
+[Error] : [Animal] : Oшибка. Object reference not set to an instance of an object.
